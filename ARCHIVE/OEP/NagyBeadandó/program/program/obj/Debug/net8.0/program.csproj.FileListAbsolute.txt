@@ -1,0 +1,14 @@
+C:\UNI\OEP\NagyBeadandó\program\program\bin\Debug\net8.0\program.exe
+C:\UNI\OEP\NagyBeadandó\program\program\bin\Debug\net8.0\program.deps.json
+C:\UNI\OEP\NagyBeadandó\program\program\bin\Debug\net8.0\program.runtimeconfig.json
+C:\UNI\OEP\NagyBeadandó\program\program\bin\Debug\net8.0\program.dll
+C:\UNI\OEP\NagyBeadandó\program\program\bin\Debug\net8.0\program.pdb
+C:\UNI\OEP\NagyBeadandó\program\program\obj\Debug\net8.0\program.GeneratedMSBuildEditorConfig.editorconfig
+C:\UNI\OEP\NagyBeadandó\program\program\obj\Debug\net8.0\program.AssemblyInfoInputs.cache
+C:\UNI\OEP\NagyBeadandó\program\program\obj\Debug\net8.0\program.AssemblyInfo.cs
+C:\UNI\OEP\NagyBeadandó\program\program\obj\Debug\net8.0\program.csproj.CoreCompileInputs.cache
+C:\UNI\OEP\NagyBeadandó\program\program\obj\Debug\net8.0\program.dll
+C:\UNI\OEP\NagyBeadandó\program\program\obj\Debug\net8.0\refint\program.dll
+C:\UNI\OEP\NagyBeadandó\program\program\obj\Debug\net8.0\program.pdb
+C:\UNI\OEP\NagyBeadandó\program\program\obj\Debug\net8.0\program.genruntimeconfig.cache
+C:\UNI\OEP\NagyBeadandó\program\program\obj\Debug\net8.0\ref\program.dll

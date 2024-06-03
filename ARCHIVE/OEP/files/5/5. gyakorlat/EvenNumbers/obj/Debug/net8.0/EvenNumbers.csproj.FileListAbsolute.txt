@@ -1,0 +1,14 @@
+C:\Users\Gergő\Desktop\Programozás\OEP\24\5. gyakorlat\EvenNumbers\bin\Debug\net8.0\EvenNumbers.exe
+C:\Users\Gergő\Desktop\Programozás\OEP\24\5. gyakorlat\EvenNumbers\bin\Debug\net8.0\EvenNumbers.deps.json
+C:\Users\Gergő\Desktop\Programozás\OEP\24\5. gyakorlat\EvenNumbers\bin\Debug\net8.0\EvenNumbers.runtimeconfig.json
+C:\Users\Gergő\Desktop\Programozás\OEP\24\5. gyakorlat\EvenNumbers\bin\Debug\net8.0\EvenNumbers.dll
+C:\Users\Gergő\Desktop\Programozás\OEP\24\5. gyakorlat\EvenNumbers\bin\Debug\net8.0\EvenNumbers.pdb
+C:\Users\Gergő\Desktop\Programozás\OEP\24\5. gyakorlat\EvenNumbers\obj\Debug\net8.0\EvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gergő\Desktop\Programozás\OEP\24\5. gyakorlat\EvenNumbers\obj\Debug\net8.0\EvenNumbers.AssemblyInfoInputs.cache
+C:\Users\Gergő\Desktop\Programozás\OEP\24\5. gyakorlat\EvenNumbers\obj\Debug\net8.0\EvenNumbers.AssemblyInfo.cs
+C:\Users\Gergő\Desktop\Programozás\OEP\24\5. gyakorlat\EvenNumbers\obj\Debug\net8.0\EvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Gergő\Desktop\Programozás\OEP\24\5. gyakorlat\EvenNumbers\obj\Debug\net8.0\EvenNumbers.dll
+C:\Users\Gergő\Desktop\Programozás\OEP\24\5. gyakorlat\EvenNumbers\obj\Debug\net8.0\refint\EvenNumbers.dll
+C:\Users\Gergő\Desktop\Programozás\OEP\24\5. gyakorlat\EvenNumbers\obj\Debug\net8.0\EvenNumbers.pdb
+C:\Users\Gergő\Desktop\Programozás\OEP\24\5. gyakorlat\EvenNumbers\obj\Debug\net8.0\EvenNumbers.genruntimeconfig.cache
+C:\Users\Gergő\Desktop\Programozás\OEP\24\5. gyakorlat\EvenNumbers\obj\Debug\net8.0\ref\EvenNumbers.dll

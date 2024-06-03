@@ -1,0 +1,14 @@
+C:\UNI\OEP\5\5. gyakorlat\kisBeadando_5\bin\Debug\net8.0\kisBeadando_5.exe
+C:\UNI\OEP\5\5. gyakorlat\kisBeadando_5\bin\Debug\net8.0\kisBeadando_5.deps.json
+C:\UNI\OEP\5\5. gyakorlat\kisBeadando_5\bin\Debug\net8.0\kisBeadando_5.runtimeconfig.json
+C:\UNI\OEP\5\5. gyakorlat\kisBeadando_5\bin\Debug\net8.0\kisBeadando_5.dll
+C:\UNI\OEP\5\5. gyakorlat\kisBeadando_5\bin\Debug\net8.0\kisBeadando_5.pdb
+C:\UNI\OEP\5\5. gyakorlat\kisBeadando_5\obj\Debug\net8.0\kisBeadando_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\UNI\OEP\5\5. gyakorlat\kisBeadando_5\obj\Debug\net8.0\kisBeadando_5.AssemblyInfoInputs.cache
+C:\UNI\OEP\5\5. gyakorlat\kisBeadando_5\obj\Debug\net8.0\kisBeadando_5.AssemblyInfo.cs
+C:\UNI\OEP\5\5. gyakorlat\kisBeadando_5\obj\Debug\net8.0\kisBeadando_5.csproj.CoreCompileInputs.cache
+C:\UNI\OEP\5\5. gyakorlat\kisBeadando_5\obj\Debug\net8.0\kisBeadando_5.dll
+C:\UNI\OEP\5\5. gyakorlat\kisBeadando_5\obj\Debug\net8.0\refint\kisBeadando_5.dll
+C:\UNI\OEP\5\5. gyakorlat\kisBeadando_5\obj\Debug\net8.0\kisBeadando_5.pdb
+C:\UNI\OEP\5\5. gyakorlat\kisBeadando_5\obj\Debug\net8.0\kisBeadando_5.genruntimeconfig.cache
+C:\UNI\OEP\5\5. gyakorlat\kisBeadando_5\obj\Debug\net8.0\ref\kisBeadando_5.dll

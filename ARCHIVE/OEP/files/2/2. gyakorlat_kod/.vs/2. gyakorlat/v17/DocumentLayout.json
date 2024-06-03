@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UNI\\OEP\\2\\2. gyakorlat_kod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE35688-7A81-4565-8F0D-7FB414E1B07A}|Komplex\\Komplex.csproj|c:\\uni\\oep\\2\\2. gyakorlat_kod\\komplex\\komplex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE35688-7A81-4565-8F0D-7FB414E1B07A}|Komplex\\Komplex.csproj|solutionrelative:komplex\\komplex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE35688-7A81-4565-8F0D-7FB414E1B07A}|Komplex\\Komplex.csproj|c:\\uni\\oep\\2\\2. gyakorlat_kod\\komplex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE35688-7A81-4565-8F0D-7FB414E1B07A}|Komplex\\Komplex.csproj|solutionrelative:komplex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966457AE-4B38-468E-A4E6-0F2E62346DE6}|Kor\\Kor.csproj|c:\\uni\\oep\\2\\2. gyakorlat_kod\\kor\\pont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966457AE-4B38-468E-A4E6-0F2E62346DE6}|Kor\\Kor.csproj|solutionrelative:kor\\pont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966457AE-4B38-468E-A4E6-0F2E62346DE6}|Kor\\Kor.csproj|c:\\uni\\oep\\2\\2. gyakorlat_kod\\kor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966457AE-4B38-468E-A4E6-0F2E62346DE6}|Kor\\Kor.csproj|solutionrelative:kor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6865AD3F-D530-4CDF-BC84-1102B436DD80}|Polinom\\Polinom.csproj|c:\\uni\\oep\\2\\2. gyakorlat_kod\\polinom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6865AD3F-D530-4CDF-BC84-1102B436DD80}|Polinom\\Polinom.csproj|solutionrelative:polinom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6865AD3F-D530-4CDF-BC84-1102B436DD80}|Polinom\\Polinom.csproj|c:\\uni\\oep\\2\\2. gyakorlat_kod\\polinom\\poli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6865AD3F-D530-4CDF-BC84-1102B436DD80}|Polinom\\Polinom.csproj|solutionrelative:polinom\\poli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pont.cs",
+              "DocumentMoniker": "C:\\UNI\\OEP\\2\\2. gyakorlat_kod\\Kor\\Pont.cs",
+              "RelativeDocumentMoniker": "Kor\\Pont.cs",
+              "ToolTip": "C:\\UNI\\OEP\\2\\2. gyakorlat_kod\\Kor\\Pont.cs",
+              "RelativeToolTip": "Kor\\Pont.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T21:54:00.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\UNI\\OEP\\2\\2. gyakorlat_kod\\Polinom\\Program.cs",
+              "RelativeDocumentMoniker": "Polinom\\Program.cs",
+              "ToolTip": "C:\\UNI\\OEP\\2\\2. gyakorlat_kod\\Polinom\\Program.cs",
+              "RelativeToolTip": "Polinom\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T21:53:44.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Poli.cs",
+              "DocumentMoniker": "C:\\UNI\\OEP\\2\\2. gyakorlat_kod\\Polinom\\Poli.cs",
+              "RelativeDocumentMoniker": "Polinom\\Poli.cs",
+              "ToolTip": "C:\\UNI\\OEP\\2\\2. gyakorlat_kod\\Polinom\\Poli.cs",
+              "RelativeToolTip": "Polinom\\Poli.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T21:53:41.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\UNI\\OEP\\2\\2. gyakorlat_kod\\Kor\\Program.cs",
+              "RelativeDocumentMoniker": "Kor\\Program.cs",
+              "ToolTip": "C:\\UNI\\OEP\\2\\2. gyakorlat_kod\\Kor\\Program.cs",
+              "RelativeToolTip": "Kor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T21:53:35.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\UNI\\OEP\\2\\2. gyakorlat_kod\\Komplex\\Program.cs",
+              "RelativeDocumentMoniker": "Komplex\\Program.cs",
+              "ToolTip": "C:\\UNI\\OEP\\2\\2. gyakorlat_kod\\Komplex\\Program.cs",
+              "RelativeToolTip": "Komplex\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T19:28:52.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Komplex.cs",
+              "DocumentMoniker": "C:\\UNI\\OEP\\2\\2. gyakorlat_kod\\Komplex\\Komplex.cs",
+              "RelativeDocumentMoniker": "Komplex\\Komplex.cs",
+              "ToolTip": "C:\\UNI\\OEP\\2\\2. gyakorlat_kod\\Komplex\\Komplex.cs",
+              "RelativeToolTip": "Komplex\\Komplex.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T19:28:52.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

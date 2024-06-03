@@ -1,0 +1,23 @@
+using System;
+
+public class MotaException : Exception
+{
+
+}
+
+    public interface Size
+    {
+        int Multi();
+        static Size Instance() { throw new Exception(); } // Define Instance method in the interface
+    }
+
+    public class M : Size
+    {
+        private static M instance = new M();
+        public static M Instance()
+        {
+            return instance ;
+        }
+        public int Multi() { return 2; }
+    }
+

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UNI\\OPP\\KIS_BEADANDOK\\1_KIS-BEADAND\u00D3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{298525F4-8EB9-4F1B-9F59-59783E6565A5}|HF1.csproj|c:\\uni\\opp\\kis_beadandok\\1_kis-beadand\u00F3\\labyrinth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298525F4-8EB9-4F1B-9F59-59783E6565A5}|HF1.csproj|solutionrelative:labyrinth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298525F4-8EB9-4F1B-9F59-59783E6565A5}|HF1.csproj|c:\\uni\\opp\\kis_beadandok\\1_kis-beadand\u00F3\\content.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298525F4-8EB9-4F1B-9F59-59783E6565A5}|HF1.csproj|solutionrelative:content.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298525F4-8EB9-4F1B-9F59-59783E6565A5}|HF1.csproj|c:\\uni\\opp\\kis_beadandok\\1_kis-beadand\u00F3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298525F4-8EB9-4F1B-9F59-59783E6565A5}|HF1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Content.cs",
+              "DocumentMoniker": "C:\\UNI\\OPP\\KIS_BEADANDOK\\1_KIS-BEADAND\u00D3\\Content.cs",
+              "RelativeDocumentMoniker": "Content.cs",
+              "ToolTip": "C:\\UNI\\OPP\\KIS_BEADANDOK\\1_KIS-BEADAND\u00D3\\Content.cs",
+              "RelativeToolTip": "Content.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T11:04:22.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Labyrinth.cs",
+              "DocumentMoniker": "C:\\UNI\\OPP\\KIS_BEADANDOK\\1_KIS-BEADAND\u00D3\\Labyrinth.cs",
+              "RelativeDocumentMoniker": "Labyrinth.cs",
+              "ToolTip": "C:\\UNI\\OPP\\KIS_BEADANDOK\\1_KIS-BEADAND\u00D3\\Labyrinth.cs",
+              "RelativeToolTip": "Labyrinth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T10:31:18.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\UNI\\OPP\\KIS_BEADANDOK\\1_KIS-BEADAND\u00D3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\UNI\\OPP\\KIS_BEADANDOK\\1_KIS-BEADAND\u00D3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T10:30:39.87Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\UNI\OPP\3\otthon_program\MAP\MAP\bin\Debug\net8.0\MAP.exe
+C:\UNI\OPP\3\otthon_program\MAP\MAP\bin\Debug\net8.0\MAP.deps.json
+C:\UNI\OPP\3\otthon_program\MAP\MAP\bin\Debug\net8.0\MAP.runtimeconfig.json
+C:\UNI\OPP\3\otthon_program\MAP\MAP\bin\Debug\net8.0\MAP.dll
+C:\UNI\OPP\3\otthon_program\MAP\MAP\bin\Debug\net8.0\MAP.pdb
+C:\UNI\OPP\3\otthon_program\MAP\MAP\obj\Debug\net8.0\MAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\UNI\OPP\3\otthon_program\MAP\MAP\obj\Debug\net8.0\MAP.AssemblyInfoInputs.cache
+C:\UNI\OPP\3\otthon_program\MAP\MAP\obj\Debug\net8.0\MAP.AssemblyInfo.cs
+C:\UNI\OPP\3\otthon_program\MAP\MAP\obj\Debug\net8.0\MAP.csproj.CoreCompileInputs.cache
+C:\UNI\OPP\3\otthon_program\MAP\MAP\obj\Debug\net8.0\MAP.dll
+C:\UNI\OPP\3\otthon_program\MAP\MAP\obj\Debug\net8.0\refint\MAP.dll
+C:\UNI\OPP\3\otthon_program\MAP\MAP\obj\Debug\net8.0\MAP.pdb
+C:\UNI\OPP\3\otthon_program\MAP\MAP\obj\Debug\net8.0\MAP.genruntimeconfig.cache
+C:\UNI\OPP\3\otthon_program\MAP\MAP\obj\Debug\net8.0\ref\MAP.dll

@@ -1,0 +1,23 @@
+for structure: 
+
+.\check.bat FibonacciStructureTest.java FibonacciStructureTest
+
+for *Test.java 
+.\check.bat .\famous\sequence\FibTest.java famous.sequence.FibTest
+the same but wihtout 
+
+
+
+
+
+import static check.CheckThat.*;
+import static org.junit.jupiter.api.Assertions.*;
+import org.junit.jupiter.api.*;
+import org.junit.jupiter.api.condition.*;
+import org.junit.jupiter.api.extension.*;
+import org.junit.jupiter.params.*;
+import org.junit.jupiter.params.provider.*;
+import check.*;
+
+
+..

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UNI\\OEP\\KIS_BEADANDOK\\10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{958B0E1A-2A24-47F1-B3A8-4F58E48EF5DF}|HF10.csproj|c:\\uni\\oep\\kis_beadandok\\10\\ampark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958B0E1A-2A24-47F1-B3A8-4F58E48EF5DF}|HF10.csproj|solutionrelative:ampark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958B0E1A-2A24-47F1-B3A8-4F58E48EF5DF}|HF10.csproj|c:\\uni\\oep\\kis_beadandok\\10\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958B0E1A-2A24-47F1-B3A8-4F58E48EF5DF}|HF10.csproj|solutionrelative:guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958B0E1A-2A24-47F1-B3A8-4F58E48EF5DF}|HF10.csproj|c:\\uni\\oep\\kis_beadandok\\10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958B0E1A-2A24-47F1-B3A8-4F58E48EF5DF}|HF10.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958B0E1A-2A24-47F1-B3A8-4F58E48EF5DF}|HF10.csproj|c:\\uni\\oep\\kis_beadandok\\10\\targetshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958B0E1A-2A24-47F1-B3A8-4F58E48EF5DF}|HF10.csproj|solutionrelative:targetshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958B0E1A-2A24-47F1-B3A8-4F58E48EF5DF}|HF10.csproj|c:\\uni\\oep\\kis_beadandok\\10\\gift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958B0E1A-2A24-47F1-B3A8-4F58E48EF5DF}|HF10.csproj|solutionrelative:gift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958B0E1A-2A24-47F1-B3A8-4F58E48EF5DF}|HF10.csproj|c:\\uni\\oep\\kis_beadandok\\10\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958B0E1A-2A24-47F1-B3A8-4F58E48EF5DF}|HF10.csproj|solutionrelative:size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958B0E1A-2A24-47F1-B3A8-4F58E48EF5DF}|HF10.csproj|c:\\uni\\oep\\kis_beadandok\\10\\hf10.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{958B0E1A-2A24-47F1-B3A8-4F58E48EF5DF}|HF10.csproj|solutionrelative:hf10.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Guest.cs",
+              "DocumentMoniker": "C:\\UNI\\OEP\\KIS_BEADANDOK\\10\\Guest.cs",
+              "RelativeDocumentMoniker": "Guest.cs",
+              "ToolTip": "C:\\UNI\\OEP\\KIS_BEADANDOK\\10\\Guest.cs",
+              "RelativeToolTip": "Guest.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T21:50:50.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AmPark.cs",
+              "DocumentMoniker": "C:\\UNI\\OEP\\KIS_BEADANDOK\\10\\AmPark.cs",
+              "RelativeDocumentMoniker": "AmPark.cs",
+              "ToolTip": "C:\\UNI\\OEP\\KIS_BEADANDOK\\10\\AmPark.cs",
+              "RelativeToolTip": "AmPark.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAowBYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T21:45:41.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TargetShot.cs",
+              "DocumentMoniker": "C:\\UNI\\OEP\\KIS_BEADANDOK\\10\\TargetShot.cs",
+              "RelativeDocumentMoniker": "TargetShot.cs",
+              "ToolTip": "C:\\UNI\\OEP\\KIS_BEADANDOK\\10\\TargetShot.cs",
+              "RelativeToolTip": "TargetShot.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T21:40:37.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Size.cs",
+              "DocumentMoniker": "C:\\UNI\\OEP\\KIS_BEADANDOK\\10\\Size.cs",
+              "RelativeDocumentMoniker": "Size.cs",
+              "ToolTip": "C:\\UNI\\OEP\\KIS_BEADANDOK\\10\\Size.cs",
+              "RelativeToolTip": "Size.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAADwvzQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T21:35:01.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Gift.cs",
+              "DocumentMoniker": "C:\\UNI\\OEP\\KIS_BEADANDOK\\10\\Gift.cs",
+              "RelativeDocumentMoniker": "Gift.cs",
+              "ToolTip": "C:\\UNI\\OEP\\KIS_BEADANDOK\\10\\Gift.cs",
+              "RelativeToolTip": "Gift.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAADgvykAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T21:30:10.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HF10.csproj",
+              "DocumentMoniker": "C:\\UNI\\OEP\\KIS_BEADANDOK\\10\\HF10.csproj",
+              "RelativeDocumentMoniker": "HF10.csproj",
+              "ToolTip": "C:\\UNI\\OEP\\KIS_BEADANDOK\\10\\HF10.csproj",
+              "RelativeToolTip": "HF10.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-01T21:28:58.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\UNI\\OEP\\KIS_BEADANDOK\\10\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\UNI\\OEP\\KIS_BEADANDOK\\10\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAPgAAAAAAAAAAAAowAEBAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T21:28:47.791Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

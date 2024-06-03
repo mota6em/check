@@ -1,0 +1,14 @@
+C:\UNI\OEP\ZHra\thrd9\obj\Debug\net8.0\HF9.GeneratedMSBuildEditorConfig.editorconfig
+C:\UNI\OEP\ZHra\thrd9\obj\Debug\net8.0\HF9.AssemblyInfoInputs.cache
+C:\UNI\OEP\ZHra\thrd9\obj\Debug\net8.0\HF9.AssemblyInfo.cs
+C:\UNI\OEP\ZHra\thrd9\obj\Debug\net8.0\HF9.csproj.CoreCompileInputs.cache
+C:\UNI\OEP\ZHra\thrd9\bin\Debug\net8.0\HF9.exe
+C:\UNI\OEP\ZHra\thrd9\bin\Debug\net8.0\HF9.deps.json
+C:\UNI\OEP\ZHra\thrd9\bin\Debug\net8.0\HF9.runtimeconfig.json
+C:\UNI\OEP\ZHra\thrd9\bin\Debug\net8.0\HF9.dll
+C:\UNI\OEP\ZHra\thrd9\bin\Debug\net8.0\HF9.pdb
+C:\UNI\OEP\ZHra\thrd9\obj\Debug\net8.0\HF9.dll
+C:\UNI\OEP\ZHra\thrd9\obj\Debug\net8.0\refint\HF9.dll
+C:\UNI\OEP\ZHra\thrd9\obj\Debug\net8.0\HF9.pdb
+C:\UNI\OEP\ZHra\thrd9\obj\Debug\net8.0\HF9.genruntimeconfig.cache
+C:\UNI\OEP\ZHra\thrd9\obj\Debug\net8.0\ref\HF9.dll

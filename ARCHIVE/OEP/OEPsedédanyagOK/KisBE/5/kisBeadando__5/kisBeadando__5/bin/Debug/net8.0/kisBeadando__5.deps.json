@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "kisBeadando__5/1.0.0": {
+        "runtime": {
+          "kisBeadando__5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kisBeadando__5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

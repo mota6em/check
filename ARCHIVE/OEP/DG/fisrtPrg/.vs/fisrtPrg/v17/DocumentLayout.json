@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UNI\\OEP\\DG\\fisrtPrg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E72C8F11-6A9F-49B0-BD06-14203D81714F}|fisrtPrg\\fisrtPrg.csproj|c:\\uni\\oep\\dg\\fisrtprg\\fisrtprg\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72C8F11-6A9F-49B0-BD06-14203D81714F}|fisrtPrg\\fisrtPrg.csproj|solutionrelative:fisrtprg\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72C8F11-6A9F-49B0-BD06-14203D81714F}|fisrtPrg\\fisrtPrg.csproj|c:\\uni\\oep\\dg\\fisrtprg\\fisrtprg\\center.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72C8F11-6A9F-49B0-BD06-14203D81714F}|fisrtPrg\\fisrtPrg.csproj|solutionrelative:fisrtprg\\center.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72C8F11-6A9F-49B0-BD06-14203D81714F}|fisrtPrg\\fisrtPrg.csproj|c:\\uni\\oep\\dg\\fisrtprg\\fisrtprg\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72C8F11-6A9F-49B0-BD06-14203D81714F}|fisrtPrg\\fisrtPrg.csproj|solutionrelative:fisrtprg\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72C8F11-6A9F-49B0-BD06-14203D81714F}|fisrtPrg\\fisrtPrg.csproj|c:\\uni\\oep\\dg\\fisrtprg\\fisrtprg\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72C8F11-6A9F-49B0-BD06-14203D81714F}|fisrtPrg\\fisrtPrg.csproj|solutionrelative:fisrtprg\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72C8F11-6A9F-49B0-BD06-14203D81714F}|fisrtPrg\\fisrtPrg.csproj|c:\\uni\\oep\\dg\\fisrtprg\\fisrtprg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72C8F11-6A9F-49B0-BD06-14203D81714F}|fisrtPrg\\fisrtPrg.csproj|solutionrelative:fisrtprg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72C8F11-6A9F-49B0-BD06-14203D81714F}|fisrtPrg\\fisrtPrg.csproj|c:\\uni\\oep\\dg\\fisrtprg\\fisrtprg\\atm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72C8F11-6A9F-49B0-BD06-14203D81714F}|fisrtPrg\\fisrtPrg.csproj|solutionrelative:fisrtprg\\atm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72C8F11-6A9F-49B0-BD06-14203D81714F}|fisrtPrg\\fisrtPrg.csproj|c:\\uni\\oep\\dg\\fisrtprg\\fisrtprg\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72C8F11-6A9F-49B0-BD06-14203D81714F}|fisrtPrg\\fisrtPrg.csproj|solutionrelative:fisrtprg\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\UNI\\OEP\\DG\\fisrtPrg\\fisrtPrg\\Bank.cs",
+              "RelativeDocumentMoniker": "fisrtPrg\\Bank.cs",
+              "ToolTip": "C:\\UNI\\OEP\\DG\\fisrtPrg\\fisrtPrg\\Bank.cs",
+              "RelativeToolTip": "fisrtPrg\\Bank.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:16:03.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\UNI\\OEP\\DG\\fisrtPrg\\fisrtPrg\\Card.cs",
+              "RelativeDocumentMoniker": "fisrtPrg\\Card.cs",
+              "ToolTip": "C:\\UNI\\OEP\\DG\\fisrtPrg\\fisrtPrg\\Card.cs",
+              "RelativeToolTip": "fisrtPrg\\Card.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:07:57.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\UNI\\OEP\\DG\\fisrtPrg\\fisrtPrg\\Account.cs",
+              "RelativeDocumentMoniker": "fisrtPrg\\Account.cs",
+              "ToolTip": "C:\\UNI\\OEP\\DG\\fisrtPrg\\fisrtPrg\\Account.cs",
+              "RelativeToolTip": "fisrtPrg\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:07:41.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\UNI\\OEP\\DG\\fisrtPrg\\fisrtPrg\\Customer.cs",
+              "RelativeDocumentMoniker": "fisrtPrg\\Customer.cs",
+              "ToolTip": "C:\\UNI\\OEP\\DG\\fisrtPrg\\fisrtPrg\\Customer.cs",
+              "RelativeToolTip": "fisrtPrg\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:07:27.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ATM.cs",
+              "DocumentMoniker": "C:\\UNI\\OEP\\DG\\fisrtPrg\\fisrtPrg\\ATM.cs",
+              "RelativeDocumentMoniker": "fisrtPrg\\ATM.cs",
+              "ToolTip": "C:\\UNI\\OEP\\DG\\fisrtPrg\\fisrtPrg\\ATM.cs",
+              "RelativeToolTip": "fisrtPrg\\ATM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:07:14.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Center.cs",
+              "DocumentMoniker": "C:\\UNI\\OEP\\DG\\fisrtPrg\\fisrtPrg\\Center.cs",
+              "RelativeDocumentMoniker": "fisrtPrg\\Center.cs",
+              "ToolTip": "C:\\UNI\\OEP\\DG\\fisrtPrg\\fisrtPrg\\Center.cs",
+              "RelativeToolTip": "fisrtPrg\\Center.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:06:39.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\UNI\\OEP\\DG\\fisrtPrg\\fisrtPrg\\Program.cs",
+              "RelativeDocumentMoniker": "fisrtPrg\\Program.cs",
+              "ToolTip": "C:\\UNI\\OEP\\DG\\fisrtPrg\\fisrtPrg\\Program.cs",
+              "RelativeToolTip": "fisrtPrg\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T22:45:42.91Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

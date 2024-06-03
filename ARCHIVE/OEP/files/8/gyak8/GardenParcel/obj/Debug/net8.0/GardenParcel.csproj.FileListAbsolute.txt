@@ -1,0 +1,14 @@
+C:\UNI\OEP\8\gyak8\GardenParcel\bin\Debug\net8.0\GardenParcel.exe
+C:\UNI\OEP\8\gyak8\GardenParcel\bin\Debug\net8.0\GardenParcel.deps.json
+C:\UNI\OEP\8\gyak8\GardenParcel\bin\Debug\net8.0\GardenParcel.runtimeconfig.json
+C:\UNI\OEP\8\gyak8\GardenParcel\bin\Debug\net8.0\GardenParcel.dll
+C:\UNI\OEP\8\gyak8\GardenParcel\bin\Debug\net8.0\GardenParcel.pdb
+C:\UNI\OEP\8\gyak8\GardenParcel\obj\Debug\net8.0\GardenParcel.GeneratedMSBuildEditorConfig.editorconfig
+C:\UNI\OEP\8\gyak8\GardenParcel\obj\Debug\net8.0\GardenParcel.AssemblyInfoInputs.cache
+C:\UNI\OEP\8\gyak8\GardenParcel\obj\Debug\net8.0\GardenParcel.AssemblyInfo.cs
+C:\UNI\OEP\8\gyak8\GardenParcel\obj\Debug\net8.0\GardenParcel.csproj.CoreCompileInputs.cache
+C:\UNI\OEP\8\gyak8\GardenParcel\obj\Debug\net8.0\GardenParcel.dll
+C:\UNI\OEP\8\gyak8\GardenParcel\obj\Debug\net8.0\refint\GardenParcel.dll
+C:\UNI\OEP\8\gyak8\GardenParcel\obj\Debug\net8.0\GardenParcel.pdb
+C:\UNI\OEP\8\gyak8\GardenParcel\obj\Debug\net8.0\GardenParcel.genruntimeconfig.cache
+C:\UNI\OEP\8\gyak8\GardenParcel\obj\Debug\net8.0\ref\GardenParcel.dll

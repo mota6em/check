@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UNI\\OEP\\11\\11gyak\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB53F84-8215-4071-BCCC-DD27D36CC766}|11gyak\\11gyak.csproj|c:\\uni\\oep\\11\\11gyak\\11gyak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB53F84-8215-4071-BCCC-DD27D36CC766}|11gyak\\11gyak.csproj|solutionrelative:11gyak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\UNI\\OEP\\11\\11gyak\\11gyak\\Program.cs",
+              "RelativeDocumentMoniker": "11gyak\\Program.cs",
+              "ToolTip": "C:\\UNI\\OEP\\11\\11gyak\\11gyak\\Program.cs",
+              "RelativeToolTip": "11gyak\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T08:31:49.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

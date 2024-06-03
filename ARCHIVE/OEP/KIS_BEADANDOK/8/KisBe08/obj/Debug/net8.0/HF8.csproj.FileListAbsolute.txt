@@ -1,0 +1,14 @@
+C:\UNI\OEP\KIS_BEADANDOK\8\KisBe08\obj\Debug\net8.0\HF8.GeneratedMSBuildEditorConfig.editorconfig
+C:\UNI\OEP\KIS_BEADANDOK\8\KisBe08\obj\Debug\net8.0\HF8.AssemblyInfoInputs.cache
+C:\UNI\OEP\KIS_BEADANDOK\8\KisBe08\obj\Debug\net8.0\HF8.AssemblyInfo.cs
+C:\UNI\OEP\KIS_BEADANDOK\8\KisBe08\obj\Debug\net8.0\HF8.csproj.CoreCompileInputs.cache
+C:\UNI\OEP\KIS_BEADANDOK\8\KisBe08\bin\Debug\net8.0\HF8.exe
+C:\UNI\OEP\KIS_BEADANDOK\8\KisBe08\bin\Debug\net8.0\HF8.deps.json
+C:\UNI\OEP\KIS_BEADANDOK\8\KisBe08\bin\Debug\net8.0\HF8.runtimeconfig.json
+C:\UNI\OEP\KIS_BEADANDOK\8\KisBe08\bin\Debug\net8.0\HF8.dll
+C:\UNI\OEP\KIS_BEADANDOK\8\KisBe08\bin\Debug\net8.0\HF8.pdb
+C:\UNI\OEP\KIS_BEADANDOK\8\KisBe08\obj\Debug\net8.0\HF8.dll
+C:\UNI\OEP\KIS_BEADANDOK\8\KisBe08\obj\Debug\net8.0\refint\HF8.dll
+C:\UNI\OEP\KIS_BEADANDOK\8\KisBe08\obj\Debug\net8.0\HF8.pdb
+C:\UNI\OEP\KIS_BEADANDOK\8\KisBe08\obj\Debug\net8.0\HF8.genruntimeconfig.cache
+C:\UNI\OEP\KIS_BEADANDOK\8\KisBe08\obj\Debug\net8.0\ref\HF8.dll

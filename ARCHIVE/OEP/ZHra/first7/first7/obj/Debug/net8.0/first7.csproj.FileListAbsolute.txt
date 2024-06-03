@@ -1,0 +1,14 @@
+C:\UNI\OEP\ZHra\first7\first7\obj\Debug\net8.0\first7.GeneratedMSBuildEditorConfig.editorconfig
+C:\UNI\OEP\ZHra\first7\first7\obj\Debug\net8.0\first7.AssemblyInfoInputs.cache
+C:\UNI\OEP\ZHra\first7\first7\obj\Debug\net8.0\first7.AssemblyInfo.cs
+C:\UNI\OEP\ZHra\first7\first7\obj\Debug\net8.0\first7.csproj.CoreCompileInputs.cache
+C:\UNI\OEP\ZHra\first7\first7\bin\Debug\net8.0\first7.exe
+C:\UNI\OEP\ZHra\first7\first7\bin\Debug\net8.0\first7.deps.json
+C:\UNI\OEP\ZHra\first7\first7\bin\Debug\net8.0\first7.runtimeconfig.json
+C:\UNI\OEP\ZHra\first7\first7\bin\Debug\net8.0\first7.dll
+C:\UNI\OEP\ZHra\first7\first7\bin\Debug\net8.0\first7.pdb
+C:\UNI\OEP\ZHra\first7\first7\obj\Debug\net8.0\first7.dll
+C:\UNI\OEP\ZHra\first7\first7\obj\Debug\net8.0\refint\first7.dll
+C:\UNI\OEP\ZHra\first7\first7\obj\Debug\net8.0\first7.pdb
+C:\UNI\OEP\ZHra\first7\first7\obj\Debug\net8.0\first7.genruntimeconfig.cache
+C:\UNI\OEP\ZHra\first7\first7\obj\Debug\net8.0\ref\first7.dll

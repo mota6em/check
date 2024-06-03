@@ -1,0 +1,4 @@
+C:\UNI\OEP\6\gyak7\gyak7\obj\Debug\net8.0\gyak7.GeneratedMSBuildEditorConfig.editorconfig
+C:\UNI\OEP\6\gyak7\gyak7\obj\Debug\net8.0\gyak7.AssemblyInfoInputs.cache
+C:\UNI\OEP\6\gyak7\gyak7\obj\Debug\net8.0\gyak7.AssemblyInfo.cs
+C:\UNI\OEP\6\gyak7\gyak7\obj\Debug\net8.0\gyak7.csproj.CoreCompileInputs.cache

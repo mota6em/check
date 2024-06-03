@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UNI\\OEP\\ZHra\\thrd9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADCEB02-0D3F-48A9-BD26-C38167B83365}|HF9.csproj|c:\\uni\\oep\\zhra\\thrd9\\solarsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADCEB02-0D3F-48A9-BD26-C38167B83365}|HF9.csproj|solutionrelative:solarsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADCEB02-0D3F-48A9-BD26-C38167B83365}|HF9.csproj|c:\\uni\\oep\\zhra\\thrd9\\starship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADCEB02-0D3F-48A9-BD26-C38167B83365}|HF9.csproj|solutionrelative:starship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADCEB02-0D3F-48A9-BD26-C38167B83365}|HF9.csproj|c:\\uni\\oep\\zhra\\thrd9\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADCEB02-0D3F-48A9-BD26-C38167B83365}|HF9.csproj|solutionrelative:planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADCEB02-0D3F-48A9-BD26-C38167B83365}|HF9.csproj|c:\\uni\\oep\\zhra\\thrd9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADCEB02-0D3F-48A9-BD26-C38167B83365}|HF9.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\UNI\\OEP\\KIS_BEADANDOK\\10\\kiaBead\\Size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\UNI\\OEP\\KIS_BEADANDOK\\10\\kiaBead\\Gift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\UNI\\OEP\\KIS_BEADANDOK\\10\\kiaBead\\TargetShot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\UNI\\OEP\\KIS_BEADANDOK\\9\\HF9\\Solarsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\UNI\\OEP\\KIS_BEADANDOK\\9\\HF9\\Planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Gift.cs",
+              "DocumentMoniker": "C:\\UNI\\OEP\\KIS_BEADANDOK\\10\\kiaBead\\Gift.cs",
+              "RelativeDocumentMoniker": "..\\..\\KIS_BEADANDOK\\10\\kiaBead\\Gift.cs",
+              "ToolTip": "C:\\UNI\\OEP\\KIS_BEADANDOK\\10\\kiaBead\\Gift.cs",
+              "RelativeToolTip": "..\\..\\KIS_BEADANDOK\\10\\kiaBead\\Gift.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:16:03.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Size.cs",
+              "DocumentMoniker": "C:\\UNI\\OEP\\KIS_BEADANDOK\\10\\kiaBead\\Size.cs",
+              "RelativeDocumentMoniker": "..\\..\\KIS_BEADANDOK\\10\\kiaBead\\Size.cs",
+              "ToolTip": "C:\\UNI\\OEP\\KIS_BEADANDOK\\10\\kiaBead\\Size.cs",
+              "RelativeToolTip": "..\\..\\KIS_BEADANDOK\\10\\kiaBead\\Size.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:12:45.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TargetShot.cs",
+              "DocumentMoniker": "C:\\UNI\\OEP\\KIS_BEADANDOK\\10\\kiaBead\\TargetShot.cs",
+              "RelativeDocumentMoniker": "..\\..\\KIS_BEADANDOK\\10\\kiaBead\\TargetShot.cs",
+              "ToolTip": "C:\\UNI\\OEP\\KIS_BEADANDOK\\10\\kiaBead\\TargetShot.cs",
+              "RelativeToolTip": "..\\..\\KIS_BEADANDOK\\10\\kiaBead\\TargetShot.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:04:03.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\UNI\\OEP\\ZHra\\thrd9\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\UNI\\OEP\\ZHra\\thrd9\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:14:29.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Solarsystem.cs",
+              "DocumentMoniker": "C:\\UNI\\OEP\\KIS_BEADANDOK\\9\\HF9\\Solarsystem.cs",
+              "RelativeDocumentMoniker": "..\\..\\KIS_BEADANDOK\\9\\HF9\\Solarsystem.cs",
+              "ToolTip": "C:\\UNI\\OEP\\KIS_BEADANDOK\\9\\HF9\\Solarsystem.cs",
+              "RelativeToolTip": "..\\..\\KIS_BEADANDOK\\9\\HF9\\Solarsystem.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:14:39.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Planet.cs",
+              "DocumentMoniker": "C:\\UNI\\OEP\\KIS_BEADANDOK\\9\\HF9\\Planet.cs",
+              "RelativeDocumentMoniker": "..\\..\\KIS_BEADANDOK\\9\\HF9\\Planet.cs",
+              "ToolTip": "C:\\UNI\\OEP\\KIS_BEADANDOK\\9\\HF9\\Planet.cs",
+              "RelativeToolTip": "..\\..\\KIS_BEADANDOK\\9\\HF9\\Planet.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAC8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:14:00.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Planet.cs",
+              "DocumentMoniker": "C:\\UNI\\OEP\\ZHra\\thrd9\\Planet.cs",
+              "RelativeDocumentMoniker": "Planet.cs",
+              "ToolTip": "C:\\UNI\\OEP\\ZHra\\thrd9\\Planet.cs",
+              "RelativeToolTip": "Planet.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvzAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T11:51:48.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Solarsystem.cs",
+              "DocumentMoniker": "C:\\UNI\\OEP\\ZHra\\thrd9\\Solarsystem.cs",
+              "RelativeDocumentMoniker": "Solarsystem.cs",
+              "ToolTip": "C:\\UNI\\OEP\\ZHra\\thrd9\\Solarsystem.cs",
+              "RelativeToolTip": "Solarsystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T11:50:40.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Starship.cs",
+              "DocumentMoniker": "C:\\UNI\\OEP\\ZHra\\thrd9\\Starship.cs",
+              "RelativeDocumentMoniker": "Starship.cs",
+              "ToolTip": "C:\\UNI\\OEP\\ZHra\\thrd9\\Starship.cs",
+              "RelativeToolTip": "Starship.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwv0IAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T11:49:42.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

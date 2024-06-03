@@ -1,0 +1,14 @@
+C:\Users\Gergő\Desktop\Programozás\OEP\24\1. gyakorlat\1F_Adag\bin\Debug\net7.0\1F_Adag.exe
+C:\Users\Gergő\Desktop\Programozás\OEP\24\1. gyakorlat\1F_Adag\bin\Debug\net7.0\1F_Adag.deps.json
+C:\Users\Gergő\Desktop\Programozás\OEP\24\1. gyakorlat\1F_Adag\bin\Debug\net7.0\1F_Adag.runtimeconfig.json
+C:\Users\Gergő\Desktop\Programozás\OEP\24\1. gyakorlat\1F_Adag\bin\Debug\net7.0\1F_Adag.dll
+C:\Users\Gergő\Desktop\Programozás\OEP\24\1. gyakorlat\1F_Adag\bin\Debug\net7.0\1F_Adag.pdb
+C:\Users\Gergő\Desktop\Programozás\OEP\24\1. gyakorlat\1F_Adag\obj\Debug\net7.0\1F_Adag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gergő\Desktop\Programozás\OEP\24\1. gyakorlat\1F_Adag\obj\Debug\net7.0\1F_Adag.AssemblyInfoInputs.cache
+C:\Users\Gergő\Desktop\Programozás\OEP\24\1. gyakorlat\1F_Adag\obj\Debug\net7.0\1F_Adag.AssemblyInfo.cs
+C:\Users\Gergő\Desktop\Programozás\OEP\24\1. gyakorlat\1F_Adag\obj\Debug\net7.0\1F_Adag.csproj.CoreCompileInputs.cache
+C:\Users\Gergő\Desktop\Programozás\OEP\24\1. gyakorlat\1F_Adag\obj\Debug\net7.0\1F_Adag.dll
+C:\Users\Gergő\Desktop\Programozás\OEP\24\1. gyakorlat\1F_Adag\obj\Debug\net7.0\refint\1F_Adag.dll
+C:\Users\Gergő\Desktop\Programozás\OEP\24\1. gyakorlat\1F_Adag\obj\Debug\net7.0\1F_Adag.pdb
+C:\Users\Gergő\Desktop\Programozás\OEP\24\1. gyakorlat\1F_Adag\obj\Debug\net7.0\1F_Adag.genruntimeconfig.cache
+C:\Users\Gergő\Desktop\Programozás\OEP\24\1. gyakorlat\1F_Adag\obj\Debug\net7.0\ref\1F_Adag.dll

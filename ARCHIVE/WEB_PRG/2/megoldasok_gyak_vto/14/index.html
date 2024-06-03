@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <form>
+        <input type="text" id="text">
+        <input type="button" id="btn1" value="List books from year">
+        <select name="Publishers">
+            <option value="blue">Kék Kiadó</option>
+            <option value="piros">Piros Kiadó</option>
+        </select>
+        <input type="button" id="btn2" value="List publisher's books">
+    </form>
+    <output></output>
+    <table style="display: none;">
+        <thead>
+            <tr>
+                <td>Author</td>
+                <td>Title</td>
+                <td>Year</td>
+                <td>Publisher</td>
+                <td>ISBN</td>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+    <script src="books.js"></script>
+</body>
+
+</html>

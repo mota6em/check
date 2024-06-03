@@ -1,0 +1,14 @@
+C:\UNI\OEP\KIS_BEADANDOK\6\kisBeadano6\kisBeadano6\obj\Debug\net8.0\kisBeadano6.GeneratedMSBuildEditorConfig.editorconfig
+C:\UNI\OEP\KIS_BEADANDOK\6\kisBeadano6\kisBeadano6\obj\Debug\net8.0\kisBeadano6.AssemblyInfoInputs.cache
+C:\UNI\OEP\KIS_BEADANDOK\6\kisBeadano6\kisBeadano6\obj\Debug\net8.0\kisBeadano6.AssemblyInfo.cs
+C:\UNI\OEP\KIS_BEADANDOK\6\kisBeadano6\kisBeadano6\obj\Debug\net8.0\kisBeadano6.csproj.CoreCompileInputs.cache
+C:\UNI\OEP\KIS_BEADANDOK\6\kisBeadano6\kisBeadano6\bin\Debug\net8.0\kisBeadano6.exe
+C:\UNI\OEP\KIS_BEADANDOK\6\kisBeadano6\kisBeadano6\bin\Debug\net8.0\kisBeadano6.deps.json
+C:\UNI\OEP\KIS_BEADANDOK\6\kisBeadano6\kisBeadano6\bin\Debug\net8.0\kisBeadano6.runtimeconfig.json
+C:\UNI\OEP\KIS_BEADANDOK\6\kisBeadano6\kisBeadano6\bin\Debug\net8.0\kisBeadano6.dll
+C:\UNI\OEP\KIS_BEADANDOK\6\kisBeadano6\kisBeadano6\bin\Debug\net8.0\kisBeadano6.pdb
+C:\UNI\OEP\KIS_BEADANDOK\6\kisBeadano6\kisBeadano6\obj\Debug\net8.0\kisBeadano6.dll
+C:\UNI\OEP\KIS_BEADANDOK\6\kisBeadano6\kisBeadano6\obj\Debug\net8.0\refint\kisBeadano6.dll
+C:\UNI\OEP\KIS_BEADANDOK\6\kisBeadano6\kisBeadano6\obj\Debug\net8.0\kisBeadano6.pdb
+C:\UNI\OEP\KIS_BEADANDOK\6\kisBeadano6\kisBeadano6\obj\Debug\net8.0\kisBeadano6.genruntimeconfig.cache
+C:\UNI\OEP\KIS_BEADANDOK\6\kisBeadano6\kisBeadano6\obj\Debug\net8.0\ref\kisBeadano6.dll

@@ -1,0 +1,14 @@
+C:\UNI\OEP\ZHra\sampleONE\sampleONE\bin\Debug\net8.0\sampleONE.exe
+C:\UNI\OEP\ZHra\sampleONE\sampleONE\bin\Debug\net8.0\sampleONE.deps.json
+C:\UNI\OEP\ZHra\sampleONE\sampleONE\bin\Debug\net8.0\sampleONE.runtimeconfig.json
+C:\UNI\OEP\ZHra\sampleONE\sampleONE\bin\Debug\net8.0\sampleONE.dll
+C:\UNI\OEP\ZHra\sampleONE\sampleONE\bin\Debug\net8.0\sampleONE.pdb
+C:\UNI\OEP\ZHra\sampleONE\sampleONE\obj\Debug\net8.0\sampleONE.GeneratedMSBuildEditorConfig.editorconfig
+C:\UNI\OEP\ZHra\sampleONE\sampleONE\obj\Debug\net8.0\sampleONE.AssemblyInfoInputs.cache
+C:\UNI\OEP\ZHra\sampleONE\sampleONE\obj\Debug\net8.0\sampleONE.AssemblyInfo.cs
+C:\UNI\OEP\ZHra\sampleONE\sampleONE\obj\Debug\net8.0\sampleONE.csproj.CoreCompileInputs.cache
+C:\UNI\OEP\ZHra\sampleONE\sampleONE\obj\Debug\net8.0\sampleONE.dll
+C:\UNI\OEP\ZHra\sampleONE\sampleONE\obj\Debug\net8.0\refint\sampleONE.dll
+C:\UNI\OEP\ZHra\sampleONE\sampleONE\obj\Debug\net8.0\sampleONE.pdb
+C:\UNI\OEP\ZHra\sampleONE\sampleONE\obj\Debug\net8.0\sampleONE.genruntimeconfig.cache
+C:\UNI\OEP\ZHra\sampleONE\sampleONE\obj\Debug\net8.0\ref\sampleONE.dll

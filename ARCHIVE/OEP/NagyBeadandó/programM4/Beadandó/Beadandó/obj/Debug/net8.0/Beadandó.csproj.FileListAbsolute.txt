@@ -1,0 +1,14 @@
+C:\UNI\OEP\NagyBeadandó\programM4\Beadandó\Beadandó\bin\Debug\net8.0\Beadandó.exe
+C:\UNI\OEP\NagyBeadandó\programM4\Beadandó\Beadandó\bin\Debug\net8.0\Beadandó.deps.json
+C:\UNI\OEP\NagyBeadandó\programM4\Beadandó\Beadandó\bin\Debug\net8.0\Beadandó.runtimeconfig.json
+C:\UNI\OEP\NagyBeadandó\programM4\Beadandó\Beadandó\bin\Debug\net8.0\Beadandó.dll
+C:\UNI\OEP\NagyBeadandó\programM4\Beadandó\Beadandó\bin\Debug\net8.0\Beadandó.pdb
+C:\UNI\OEP\NagyBeadandó\programM4\Beadandó\Beadandó\obj\Debug\net8.0\Beadandó.GeneratedMSBuildEditorConfig.editorconfig
+C:\UNI\OEP\NagyBeadandó\programM4\Beadandó\Beadandó\obj\Debug\net8.0\Beadandó.AssemblyInfoInputs.cache
+C:\UNI\OEP\NagyBeadandó\programM4\Beadandó\Beadandó\obj\Debug\net8.0\Beadandó.AssemblyInfo.cs
+C:\UNI\OEP\NagyBeadandó\programM4\Beadandó\Beadandó\obj\Debug\net8.0\Beadandó.csproj.CoreCompileInputs.cache
+C:\UNI\OEP\NagyBeadandó\programM4\Beadandó\Beadandó\obj\Debug\net8.0\Beadandó.dll
+C:\UNI\OEP\NagyBeadandó\programM4\Beadandó\Beadandó\obj\Debug\net8.0\refint\Beadandó.dll
+C:\UNI\OEP\NagyBeadandó\programM4\Beadandó\Beadandó\obj\Debug\net8.0\Beadandó.pdb
+C:\UNI\OEP\NagyBeadandó\programM4\Beadandó\Beadandó\obj\Debug\net8.0\Beadandó.genruntimeconfig.cache
+C:\UNI\OEP\NagyBeadandó\programM4\Beadandó\Beadandó\obj\Debug\net8.0\ref\Beadandó.dll

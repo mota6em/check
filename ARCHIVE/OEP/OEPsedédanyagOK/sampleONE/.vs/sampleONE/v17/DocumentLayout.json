@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UNI\\OEP\\ZHra\\sampleONE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{188D9F65-704F-4D96-A508-C9FFE7453AD3}|sampleONE\\sampleONE.csproj|c:\\uni\\oep\\zhra\\sampleone\\sampleone\\draftlaw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{188D9F65-704F-4D96-A508-C9FFE7453AD3}|sampleONE\\sampleONE.csproj|solutionrelative:sampleone\\draftlaw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188D9F65-704F-4D96-A508-C9FFE7453AD3}|sampleONE\\sampleONE.csproj|c:\\uni\\oep\\zhra\\sampleone\\sampleone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{188D9F65-704F-4D96-A508-C9FFE7453AD3}|sampleONE\\sampleONE.csproj|solutionrelative:sampleone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188D9F65-704F-4D96-A508-C9FFE7453AD3}|sampleONE\\sampleONE.csproj|c:\\uni\\oep\\zhra\\sampleone\\sampleone\\congressman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{188D9F65-704F-4D96-A508-C9FFE7453AD3}|sampleONE\\sampleONE.csproj|solutionrelative:sampleone\\congressman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188D9F65-704F-4D96-A508-C9FFE7453AD3}|sampleONE\\sampleONE.csproj|c:\\uni\\oep\\zhra\\sampleone\\sampleone\\parliament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{188D9F65-704F-4D96-A508-C9FFE7453AD3}|sampleONE\\sampleONE.csproj|solutionrelative:sampleone\\parliament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DraftLaw.cs",
+              "DocumentMoniker": "C:\\UNI\\OEP\\ZHra\\sampleONE\\sampleONE\\DraftLaw.cs",
+              "RelativeDocumentMoniker": "sampleONE\\DraftLaw.cs",
+              "ToolTip": "C:\\UNI\\OEP\\ZHra\\sampleONE\\sampleONE\\DraftLaw.cs*",
+              "RelativeToolTip": "sampleONE\\DraftLaw.cs*",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T23:06:02.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Congressman.cs",
+              "DocumentMoniker": "C:\\UNI\\OEP\\ZHra\\sampleONE\\sampleONE\\Congressman.cs",
+              "RelativeDocumentMoniker": "sampleONE\\Congressman.cs",
+              "ToolTip": "C:\\UNI\\OEP\\ZHra\\sampleONE\\sampleONE\\Congressman.cs",
+              "RelativeToolTip": "sampleONE\\Congressman.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T23:05:44.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Parliament.cs",
+              "DocumentMoniker": "C:\\UNI\\OEP\\ZHra\\sampleONE\\sampleONE\\Parliament.cs",
+              "RelativeDocumentMoniker": "sampleONE\\Parliament.cs",
+              "ToolTip": "C:\\UNI\\OEP\\ZHra\\sampleONE\\sampleONE\\Parliament.cs",
+              "RelativeToolTip": "sampleONE\\Parliament.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAADgvywAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T23:05:19.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\UNI\\OEP\\ZHra\\sampleONE\\sampleONE\\Program.cs",
+              "RelativeDocumentMoniker": "sampleONE\\Program.cs",
+              "ToolTip": "C:\\UNI\\OEP\\ZHra\\sampleONE\\sampleONE\\Program.cs",
+              "RelativeToolTip": "sampleONE\\Program.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAowD0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:59:43.087Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

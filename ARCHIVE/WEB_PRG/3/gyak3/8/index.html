@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        table,
+        td {
+            border: 1px solid;
+            border-collapse: collapse;
+            min-width: 50px;
+            height: 50px;
+            text-align: center;
+            font-size: 40px;
+        }
+    </style>
+</head>
+
+<body>
+    <form>
+        Méret: <input type="number" id="size" min="2" value="6">
+        Játékosok: <input type="number" id="players" min="1" value="1">
+        <input type="button" id="startBtn" value="Start">
+    </form>
+    <p>Játékos: <span id="currentPlayer"></span> Lépések: <span id="steps"></span></p>
+    <table>
+        <tbody>
+        </tbody>
+    </table>
+</body>
+<script src="index.js"></script>
+
+</html>

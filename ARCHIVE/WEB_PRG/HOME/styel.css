@@ -1,0 +1,11 @@
+body {
+    background-color: blueviolet;
+
+}
+#par {
+    transition: opacity 1s;
+}
+
+.fade-out {
+    opacity: 0;
+}

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UNI\\OEP\\4\\gyak44\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9EFDF9-6B69-4716-AFC0-4569D891D3E3}|gyak44\\gyak44.csproj|c:\\uni\\oep\\4\\gyak44\\gyak44\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9EFDF9-6B69-4716-AFC0-4569D891D3E3}|gyak44\\gyak44.csproj|solutionrelative:gyak44\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9EFDF9-6B69-4716-AFC0-4569D891D3E3}|gyak44\\gyak44.csproj|c:\\uni\\oep\\4\\gyak44\\gyak44\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9EFDF9-6B69-4716-AFC0-4569D891D3E3}|gyak44\\gyak44.csproj|solutionrelative:gyak44\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9EFDF9-6B69-4716-AFC0-4569D891D3E3}|gyak44\\gyak44.csproj|c:\\uni\\oep\\4\\gyak44\\gyak44\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9EFDF9-6B69-4716-AFC0-4569D891D3E3}|gyak44\\gyak44.csproj|solutionrelative:gyak44\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\UNI\\OEP\\4\\gyak44\\gyak44\\Item.cs",
+              "RelativeDocumentMoniker": "gyak44\\Item.cs",
+              "ToolTip": "C:\\UNI\\OEP\\4\\gyak44\\gyak44\\Item.cs",
+              "RelativeToolTip": "gyak44\\Item.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T09:51:13.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Map.cs",
+              "DocumentMoniker": "C:\\UNI\\OEP\\4\\gyak44\\gyak44\\Map.cs",
+              "RelativeDocumentMoniker": "gyak44\\Map.cs",
+              "ToolTip": "C:\\UNI\\OEP\\4\\gyak44\\gyak44\\Map.cs",
+              "RelativeToolTip": "gyak44\\Map.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwC0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T09:29:45.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\UNI\\OEP\\4\\gyak44\\gyak44\\Program.cs",
+              "RelativeDocumentMoniker": "gyak44\\Program.cs",
+              "ToolTip": "C:\\UNI\\OEP\\4\\gyak44\\gyak44\\Program.cs",
+              "RelativeToolTip": "gyak44\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T09:29:23.222Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

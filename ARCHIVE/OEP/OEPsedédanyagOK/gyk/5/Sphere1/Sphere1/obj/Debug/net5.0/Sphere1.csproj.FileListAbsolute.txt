@@ -1,0 +1,16 @@
+c:\Users\Tibi\Documents\Oktat\OEP\Előadasok\Programok\06.Sphere\Sphere1\Sphere1\bin\Debug\net5.0\Sphere1.exe
+c:\Users\Tibi\Documents\Oktat\OEP\Előadasok\Programok\06.Sphere\Sphere1\Sphere1\bin\Debug\net5.0\Sphere1.deps.json
+c:\Users\Tibi\Documents\Oktat\OEP\Előadasok\Programok\06.Sphere\Sphere1\Sphere1\bin\Debug\net5.0\Sphere1.runtimeconfig.json
+c:\Users\Tibi\Documents\Oktat\OEP\Előadasok\Programok\06.Sphere\Sphere1\Sphere1\bin\Debug\net5.0\Sphere1.runtimeconfig.dev.json
+c:\Users\Tibi\Documents\Oktat\OEP\Előadasok\Programok\06.Sphere\Sphere1\Sphere1\bin\Debug\net5.0\Sphere1.dll
+c:\Users\Tibi\Documents\Oktat\OEP\Előadasok\Programok\06.Sphere\Sphere1\Sphere1\bin\Debug\net5.0\ref\Sphere1.dll
+c:\Users\Tibi\Documents\Oktat\OEP\Előadasok\Programok\06.Sphere\Sphere1\Sphere1\bin\Debug\net5.0\Sphere1.pdb
+c:\Users\Tibi\Documents\Oktat\OEP\Előadasok\Programok\06.Sphere\Sphere1\Sphere1\obj\Debug\net5.0\Sphere1.csproj.AssemblyReference.cache
+c:\Users\Tibi\Documents\Oktat\OEP\Előadasok\Programok\06.Sphere\Sphere1\Sphere1\obj\Debug\net5.0\Sphere1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Tibi\Documents\Oktat\OEP\Előadasok\Programok\06.Sphere\Sphere1\Sphere1\obj\Debug\net5.0\Sphere1.AssemblyInfoInputs.cache
+c:\Users\Tibi\Documents\Oktat\OEP\Előadasok\Programok\06.Sphere\Sphere1\Sphere1\obj\Debug\net5.0\Sphere1.AssemblyInfo.cs
+c:\Users\Tibi\Documents\Oktat\OEP\Előadasok\Programok\06.Sphere\Sphere1\Sphere1\obj\Debug\net5.0\Sphere1.csproj.CoreCompileInputs.cache
+c:\Users\Tibi\Documents\Oktat\OEP\Előadasok\Programok\06.Sphere\Sphere1\Sphere1\obj\Debug\net5.0\Sphere1.dll
+c:\Users\Tibi\Documents\Oktat\OEP\Előadasok\Programok\06.Sphere\Sphere1\Sphere1\obj\Debug\net5.0\ref\Sphere1.dll
+c:\Users\Tibi\Documents\Oktat\OEP\Előadasok\Programok\06.Sphere\Sphere1\Sphere1\obj\Debug\net5.0\Sphere1.pdb
+c:\Users\Tibi\Documents\Oktat\OEP\Előadasok\Programok\06.Sphere\Sphere1\Sphere1\obj\Debug\net5.0\Sphere1.genruntimeconfig.cache

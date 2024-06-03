@@ -1,0 +1,14 @@
+C:\UNI\OPP\3\otthon_program\project0303\project0303\obj\Debug\net8.0\project0303.GeneratedMSBuildEditorConfig.editorconfig
+C:\UNI\OPP\3\otthon_program\project0303\project0303\obj\Debug\net8.0\project0303.AssemblyInfoInputs.cache
+C:\UNI\OPP\3\otthon_program\project0303\project0303\obj\Debug\net8.0\project0303.AssemblyInfo.cs
+C:\UNI\OPP\3\otthon_program\project0303\project0303\obj\Debug\net8.0\project0303.csproj.CoreCompileInputs.cache
+C:\UNI\OPP\3\otthon_program\project0303\project0303\bin\Debug\net8.0\project0303.exe
+C:\UNI\OPP\3\otthon_program\project0303\project0303\bin\Debug\net8.0\project0303.deps.json
+C:\UNI\OPP\3\otthon_program\project0303\project0303\bin\Debug\net8.0\project0303.runtimeconfig.json
+C:\UNI\OPP\3\otthon_program\project0303\project0303\bin\Debug\net8.0\project0303.dll
+C:\UNI\OPP\3\otthon_program\project0303\project0303\bin\Debug\net8.0\project0303.pdb
+C:\UNI\OPP\3\otthon_program\project0303\project0303\obj\Debug\net8.0\project0303.dll
+C:\UNI\OPP\3\otthon_program\project0303\project0303\obj\Debug\net8.0\refint\project0303.dll
+C:\UNI\OPP\3\otthon_program\project0303\project0303\obj\Debug\net8.0\project0303.pdb
+C:\UNI\OPP\3\otthon_program\project0303\project0303\obj\Debug\net8.0\project0303.genruntimeconfig.cache
+C:\UNI\OPP\3\otthon_program\project0303\project0303\obj\Debug\net8.0\ref\project0303.dll

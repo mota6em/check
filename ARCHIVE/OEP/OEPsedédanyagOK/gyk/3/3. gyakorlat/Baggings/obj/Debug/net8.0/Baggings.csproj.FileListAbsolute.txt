@@ -1,0 +1,14 @@
+C:\Users\Gergő\Desktop\Programozás\OEP\24\3. gyakorlat\Baggings\bin\Debug\net8.0\Baggings.exe
+C:\Users\Gergő\Desktop\Programozás\OEP\24\3. gyakorlat\Baggings\bin\Debug\net8.0\Baggings.deps.json
+C:\Users\Gergő\Desktop\Programozás\OEP\24\3. gyakorlat\Baggings\bin\Debug\net8.0\Baggings.runtimeconfig.json
+C:\Users\Gergő\Desktop\Programozás\OEP\24\3. gyakorlat\Baggings\bin\Debug\net8.0\Baggings.dll
+C:\Users\Gergő\Desktop\Programozás\OEP\24\3. gyakorlat\Baggings\bin\Debug\net8.0\Baggings.pdb
+C:\Users\Gergő\Desktop\Programozás\OEP\24\3. gyakorlat\Baggings\obj\Debug\net8.0\Baggings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gergő\Desktop\Programozás\OEP\24\3. gyakorlat\Baggings\obj\Debug\net8.0\Baggings.AssemblyInfoInputs.cache
+C:\Users\Gergő\Desktop\Programozás\OEP\24\3. gyakorlat\Baggings\obj\Debug\net8.0\Baggings.AssemblyInfo.cs
+C:\Users\Gergő\Desktop\Programozás\OEP\24\3. gyakorlat\Baggings\obj\Debug\net8.0\Baggings.csproj.CoreCompileInputs.cache
+C:\Users\Gergő\Desktop\Programozás\OEP\24\3. gyakorlat\Baggings\obj\Debug\net8.0\Baggings.dll
+C:\Users\Gergő\Desktop\Programozás\OEP\24\3. gyakorlat\Baggings\obj\Debug\net8.0\refint\Baggings.dll
+C:\Users\Gergő\Desktop\Programozás\OEP\24\3. gyakorlat\Baggings\obj\Debug\net8.0\Baggings.pdb
+C:\Users\Gergő\Desktop\Programozás\OEP\24\3. gyakorlat\Baggings\obj\Debug\net8.0\Baggings.genruntimeconfig.cache
+C:\Users\Gergő\Desktop\Programozás\OEP\24\3. gyakorlat\Baggings\obj\Debug\net8.0\ref\Baggings.dll

@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UNI\\OEP\\4\\4. gyakorlat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{199C7617-02E2-4C7E-AB1A-C9B2976754EE}|MapProj\\MapProj.csproj|c:\\uni\\oep\\4\\4. gyakorlat\\mapproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199C7617-02E2-4C7E-AB1A-C9B2976754EE}|MapProj\\MapProj.csproj|solutionrelative:mapproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{199C7617-02E2-4C7E-AB1A-C9B2976754EE}|MapProj\\MapProj.csproj|c:\\uni\\oep\\4\\4. gyakorlat\\mapproj\\mapproj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{199C7617-02E2-4C7E-AB1A-C9B2976754EE}|MapProj\\MapProj.csproj|solutionrelative:mapproj\\mapproj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{199C7617-02E2-4C7E-AB1A-C9B2976754EE}|MapProj\\MapProj.csproj|c:\\uni\\oep\\4\\4. gyakorlat\\mapproj\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199C7617-02E2-4C7E-AB1A-C9B2976754EE}|MapProj\\MapProj.csproj|solutionrelative:mapproj\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MapProj.csproj",
+              "DocumentMoniker": "C:\\UNI\\OEP\\4\\4. gyakorlat\\MapProj\\MapProj.csproj",
+              "RelativeDocumentMoniker": "MapProj\\MapProj.csproj",
+              "ToolTip": "C:\\UNI\\OEP\\4\\4. gyakorlat\\MapProj\\MapProj.csproj",
+              "RelativeToolTip": "MapProj\\MapProj.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-26T13:12:07.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\UNI\\OEP\\4\\4. gyakorlat\\MapProj\\Program.cs",
+              "RelativeDocumentMoniker": "MapProj\\Program.cs",
+              "ToolTip": "C:\\UNI\\OEP\\4\\4. gyakorlat\\MapProj\\Program.cs",
+              "RelativeToolTip": "MapProj\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T13:12:00.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Map.cs",
+              "DocumentMoniker": "C:\\UNI\\OEP\\4\\4. gyakorlat\\MapProj\\Map.cs",
+              "RelativeDocumentMoniker": "MapProj\\Map.cs",
+              "ToolTip": "C:\\UNI\\OEP\\4\\4. gyakorlat\\MapProj\\Map.cs",
+              "RelativeToolTip": "MapProj\\Map.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwDcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T13:10:40.973Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

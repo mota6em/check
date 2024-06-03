@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UNI\\OEP\\NagyBeadand\u00F3\\program\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6988A0-121D-42FC-A0AF-B87D7B6C9C12}|program\\program.csproj|c:\\uni\\oep\\nagybeadand\u00F3\\program\\program\\n\u00F6v\u00E9ny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D6988A0-121D-42FC-A0AF-B87D7B6C9C12}|program\\program.csproj|solutionrelative:program\\n\u00F6v\u00E9ny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6988A0-121D-42FC-A0AF-B87D7B6C9C12}|program\\program.csproj|c:\\uni\\oep\\nagybeadand\u00F3\\program\\program\\sug\u00E1rz\u00E1s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D6988A0-121D-42FC-A0AF-B87D7B6C9C12}|program\\program.csproj|solutionrelative:program\\sug\u00E1rz\u00E1s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6988A0-121D-42FC-A0AF-B87D7B6C9C12}|program\\program.csproj|c:\\uni\\oep\\nagybeadand\u00F3\\program\\program\\bolyg\u00F3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D6988A0-121D-42FC-A0AF-B87D7B6C9C12}|program\\program.csproj|solutionrelative:program\\bolyg\u00F3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6988A0-121D-42FC-A0AF-B87D7B6C9C12}|program\\program.csproj|c:\\uni\\oep\\nagybeadand\u00F3\\program\\program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D6988A0-121D-42FC-A0AF-B87D7B6C9C12}|program\\program.csproj|solutionrelative:program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F3A9A2-F530-4AB8-A057-4E5DE8AC95C6}|TestProject1\\TestProject1.csproj|c:\\uni\\oep\\nagybeadand\u00F3\\program\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F3A9A2-F530-4AB8-A057-4E5DE8AC95C6}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6988A0-121D-42FC-A0AF-B87D7B6C9C12}|program\\program.csproj|c:\\uni\\oep\\nagybeadand\u00F3\\program\\program\\program.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2D6988A0-121D-42FC-A0AF-B87D7B6C9C12}|program\\program.csproj|solutionrelative:program\\program.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6988A0-121D-42FC-A0AF-B87D7B6C9C12}|program\\program.csproj|c:\\uni\\oep\\nagybeadand\u00F3\\program\\program\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2D6988A0-121D-42FC-A0AF-B87D7B6C9C12}|program\\program.csproj|solutionrelative:program\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "N\u00F6v\u00E9ny.cs",
+              "DocumentMoniker": "C:\\UNI\\OEP\\NagyBeadand\u00F3\\program\\program\\N\u00F6v\u00E9ny.cs",
+              "RelativeDocumentMoniker": "program\\N\u00F6v\u00E9ny.cs",
+              "ToolTip": "C:\\UNI\\OEP\\NagyBeadand\u00F3\\program\\program\\N\u00F6v\u00E9ny.cs",
+              "RelativeToolTip": "program\\N\u00F6v\u00E9ny.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T21:55:17.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sug\u00E1rz\u00E1s.cs",
+              "DocumentMoniker": "C:\\UNI\\OEP\\NagyBeadand\u00F3\\program\\program\\Sug\u00E1rz\u00E1s.cs",
+              "RelativeDocumentMoniker": "program\\Sug\u00E1rz\u00E1s.cs",
+              "ToolTip": "C:\\UNI\\OEP\\NagyBeadand\u00F3\\program\\program\\Sug\u00E1rz\u00E1s.cs",
+              "RelativeToolTip": "program\\Sug\u00E1rz\u00E1s.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T22:21:08.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bolyg\u00F3.cs",
+              "DocumentMoniker": "C:\\UNI\\OEP\\NagyBeadand\u00F3\\program\\program\\Bolyg\u00F3.cs",
+              "RelativeDocumentMoniker": "program\\Bolyg\u00F3.cs",
+              "ToolTip": "C:\\UNI\\OEP\\NagyBeadand\u00F3\\program\\program\\Bolyg\u00F3.cs",
+              "RelativeToolTip": "program\\Bolyg\u00F3.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T21:25:46.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\UNI\\OEP\\NagyBeadand\u00F3\\program\\program\\input.txt",
+              "RelativeDocumentMoniker": "program\\input.txt",
+              "ToolTip": "C:\\UNI\\OEP\\NagyBeadand\u00F3\\program\\program\\input.txt",
+              "RelativeToolTip": "program\\input.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-04T21:25:43.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\UNI\\OEP\\NagyBeadand\u00F3\\program\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\UNI\\OEP\\NagyBeadand\u00F3\\program\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T20:29:02.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\UNI\\OEP\\NagyBeadand\u00F3\\program\\program\\Program.cs",
+              "RelativeDocumentMoniker": "program\\Program.cs",
+              "ToolTip": "C:\\UNI\\OEP\\NagyBeadand\u00F3\\program\\program\\Program.cs",
+              "RelativeToolTip": "program\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T20:26:16.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "program.csproj",
+              "DocumentMoniker": "C:\\UNI\\OEP\\NagyBeadand\u00F3\\program\\program\\program.csproj",
+              "RelativeDocumentMoniker": "program\\program.csproj",
+              "ToolTip": "C:\\UNI\\OEP\\NagyBeadand\u00F3\\program\\program\\program.csproj",
+              "RelativeToolTip": "program\\program.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-04T20:25:27.677Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

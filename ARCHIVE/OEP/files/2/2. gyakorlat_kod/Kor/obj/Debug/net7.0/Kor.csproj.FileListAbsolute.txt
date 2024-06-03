@@ -1,0 +1,14 @@
+C:\Users\Gergő\Desktop\Programozás\OEP\24\2. gyakorlat\Kor\bin\Debug\net7.0\Kor.exe
+C:\Users\Gergő\Desktop\Programozás\OEP\24\2. gyakorlat\Kor\bin\Debug\net7.0\Kor.deps.json
+C:\Users\Gergő\Desktop\Programozás\OEP\24\2. gyakorlat\Kor\bin\Debug\net7.0\Kor.runtimeconfig.json
+C:\Users\Gergő\Desktop\Programozás\OEP\24\2. gyakorlat\Kor\bin\Debug\net7.0\Kor.dll
+C:\Users\Gergő\Desktop\Programozás\OEP\24\2. gyakorlat\Kor\bin\Debug\net7.0\Kor.pdb
+C:\Users\Gergő\Desktop\Programozás\OEP\24\2. gyakorlat\Kor\obj\Debug\net7.0\Kor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gergő\Desktop\Programozás\OEP\24\2. gyakorlat\Kor\obj\Debug\net7.0\Kor.AssemblyInfoInputs.cache
+C:\Users\Gergő\Desktop\Programozás\OEP\24\2. gyakorlat\Kor\obj\Debug\net7.0\Kor.AssemblyInfo.cs
+C:\Users\Gergő\Desktop\Programozás\OEP\24\2. gyakorlat\Kor\obj\Debug\net7.0\Kor.csproj.CoreCompileInputs.cache
+C:\Users\Gergő\Desktop\Programozás\OEP\24\2. gyakorlat\Kor\obj\Debug\net7.0\Kor.dll
+C:\Users\Gergő\Desktop\Programozás\OEP\24\2. gyakorlat\Kor\obj\Debug\net7.0\refint\Kor.dll
+C:\Users\Gergő\Desktop\Programozás\OEP\24\2. gyakorlat\Kor\obj\Debug\net7.0\Kor.pdb
+C:\Users\Gergő\Desktop\Programozás\OEP\24\2. gyakorlat\Kor\obj\Debug\net7.0\Kor.genruntimeconfig.cache
+C:\Users\Gergő\Desktop\Programozás\OEP\24\2. gyakorlat\Kor\obj\Debug\net7.0\ref\Kor.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DuMBdrH4ocToWKQkZxyjZrNNhUVddG0ABxtWCgL3VqhhGYQZFwJu3Pg6d6hXibwGFKcm5+kcpshp+mOvw5nvSg==",
+  "success": true,
+  "projectFilePath": "C:\\UNI\\OPP\\1\\1. gyakorlat\\3F_Vektor\\3F_Vektor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sa7ar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Sa7ar\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Sa7ar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Sa7ar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

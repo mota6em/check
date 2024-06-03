@@ -1,0 +1,4 @@
+C:\UNI\OPP\3\otthon_program\EvenNumbers\Numbers\obj\Debug\net8.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\UNI\OPP\3\otthon_program\EvenNumbers\Numbers\obj\Debug\net8.0\Numbers.AssemblyInfoInputs.cache
+C:\UNI\OPP\3\otthon_program\EvenNumbers\Numbers\obj\Debug\net8.0\Numbers.AssemblyInfo.cs
+C:\UNI\OPP\3\otthon_program\EvenNumbers\Numbers\obj\Debug\net8.0\Numbers.csproj.CoreCompileInputs.cache

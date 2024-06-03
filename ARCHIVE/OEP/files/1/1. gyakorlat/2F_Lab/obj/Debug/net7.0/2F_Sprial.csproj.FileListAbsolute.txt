@@ -1,0 +1,14 @@
+C:\Users\Gergő\Desktop\Programozás\OEP\24\1. gyakorlat\2F_Lab\bin\Debug\net7.0\2F_Sprial.deps.json
+C:\Users\Gergő\Desktop\Programozás\OEP\24\1. gyakorlat\2F_Lab\bin\Debug\net7.0\2F_Sprial.dll
+C:\Users\Gergő\Desktop\Programozás\OEP\24\1. gyakorlat\2F_Lab\bin\Debug\net7.0\2F_Sprial.pdb
+C:\Users\Gergő\Desktop\Programozás\OEP\24\1. gyakorlat\2F_Lab\obj\Debug\net7.0\2F_Sprial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gergő\Desktop\Programozás\OEP\24\1. gyakorlat\2F_Lab\obj\Debug\net7.0\2F_Sprial.AssemblyInfoInputs.cache
+C:\Users\Gergő\Desktop\Programozás\OEP\24\1. gyakorlat\2F_Lab\obj\Debug\net7.0\2F_Sprial.AssemblyInfo.cs
+C:\Users\Gergő\Desktop\Programozás\OEP\24\1. gyakorlat\2F_Lab\obj\Debug\net7.0\2F_Sprial.csproj.CoreCompileInputs.cache
+C:\Users\Gergő\Desktop\Programozás\OEP\24\1. gyakorlat\2F_Lab\obj\Debug\net7.0\2F_Sprial.dll
+C:\Users\Gergő\Desktop\Programozás\OEP\24\1. gyakorlat\2F_Lab\obj\Debug\net7.0\refint\2F_Sprial.dll
+C:\Users\Gergő\Desktop\Programozás\OEP\24\1. gyakorlat\2F_Lab\obj\Debug\net7.0\2F_Sprial.pdb
+C:\Users\Gergő\Desktop\Programozás\OEP\24\1. gyakorlat\2F_Lab\obj\Debug\net7.0\ref\2F_Sprial.dll
+C:\Users\Gergő\Desktop\Programozás\OEP\24\1. gyakorlat\2F_Lab\bin\Debug\net7.0\2F_Sprial.exe
+C:\Users\Gergő\Desktop\Programozás\OEP\24\1. gyakorlat\2F_Lab\bin\Debug\net7.0\2F_Sprial.runtimeconfig.json
+C:\Users\Gergő\Desktop\Programozás\OEP\24\1. gyakorlat\2F_Lab\obj\Debug\net7.0\2F_Sprial.genruntimeconfig.cache

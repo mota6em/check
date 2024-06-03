@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "2F_Sprial/1.0.0": {
+        "runtime": {
+          "2F_Sprial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2F_Sprial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

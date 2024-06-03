@@ -1,0 +1,14 @@
+C:\UNI\OPP\3\Bag\Bag\bin\Debug\net8.0\Bag.exe
+C:\UNI\OPP\3\Bag\Bag\bin\Debug\net8.0\Bag.deps.json
+C:\UNI\OPP\3\Bag\Bag\bin\Debug\net8.0\Bag.runtimeconfig.json
+C:\UNI\OPP\3\Bag\Bag\bin\Debug\net8.0\Bag.dll
+C:\UNI\OPP\3\Bag\Bag\bin\Debug\net8.0\Bag.pdb
+C:\UNI\OPP\3\Bag\Bag\obj\Debug\net8.0\Bag.GeneratedMSBuildEditorConfig.editorconfig
+C:\UNI\OPP\3\Bag\Bag\obj\Debug\net8.0\Bag.AssemblyInfoInputs.cache
+C:\UNI\OPP\3\Bag\Bag\obj\Debug\net8.0\Bag.AssemblyInfo.cs
+C:\UNI\OPP\3\Bag\Bag\obj\Debug\net8.0\Bag.csproj.CoreCompileInputs.cache
+C:\UNI\OPP\3\Bag\Bag\obj\Debug\net8.0\Bag.dll
+C:\UNI\OPP\3\Bag\Bag\obj\Debug\net8.0\refint\Bag.dll
+C:\UNI\OPP\3\Bag\Bag\obj\Debug\net8.0\Bag.pdb
+C:\UNI\OPP\3\Bag\Bag\obj\Debug\net8.0\Bag.genruntimeconfig.cache
+C:\UNI\OPP\3\Bag\Bag\obj\Debug\net8.0\ref\Bag.dll

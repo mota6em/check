@@ -1,0 +1,21 @@
+Nincs
+Vini, Parabokor, 10
+Dani, Deltafa, 1
+Bili, Puffancs, 4
+Alfa
+Vini, Parabokor, 11
+Dani, Deltafa, 0
+Bili, Puffancs, 6
+Alfa
+Vini, Parabokor, 12
+Dani, Deltafa, 0
+Bili, Puffancs, 8
+Alfa
+Vini, Parabokor, 13
+Dani, Deltafa, 0
+Bili, Puffancs, 10
+Alfa
+Vini, Parabokor, 14
+Dani, Deltafa, 0
+Bili, Puffancs, 12
+Vini

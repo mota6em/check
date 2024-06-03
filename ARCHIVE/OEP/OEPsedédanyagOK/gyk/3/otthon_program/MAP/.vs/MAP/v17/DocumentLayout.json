@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UNI\\OPP\\3\\otthon_program\\MAP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBE8461-6062-4D09-BA41-FE2D5F545216}|MAP\\MAP.csproj|c:\\uni\\opp\\3\\otthon_program\\map\\map\\asszomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBE8461-6062-4D09-BA41-FE2D5F545216}|MAP\\MAP.csproj|solutionrelative:map\\asszomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBE8461-6062-4D09-BA41-FE2D5F545216}|MAP\\MAP.csproj|c:\\uni\\opp\\3\\otthon_program\\map\\map\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBE8461-6062-4D09-BA41-FE2D5F545216}|MAP\\MAP.csproj|solutionrelative:map\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBE8461-6062-4D09-BA41-FE2D5F545216}|MAP\\MAP.csproj|c:\\uni\\opp\\3\\otthon_program\\map\\map\\elem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBE8461-6062-4D09-BA41-FE2D5F545216}|MAP\\MAP.csproj|solutionrelative:map\\elem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Elem.cs",
+              "DocumentMoniker": "C:\\UNI\\OPP\\3\\otthon_program\\MAP\\MAP\\Elem.cs",
+              "RelativeDocumentMoniker": "MAP\\Elem.cs",
+              "ToolTip": "C:\\UNI\\OPP\\3\\otthon_program\\MAP\\MAP\\Elem.cs",
+              "RelativeToolTip": "MAP\\Elem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T17:14:22.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Asszomb.cs",
+              "DocumentMoniker": "C:\\UNI\\OPP\\3\\otthon_program\\MAP\\MAP\\Asszomb.cs",
+              "RelativeDocumentMoniker": "MAP\\Asszomb.cs",
+              "ToolTip": "C:\\UNI\\OPP\\3\\otthon_program\\MAP\\MAP\\Asszomb.cs",
+              "RelativeToolTip": "MAP\\Asszomb.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAGwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T15:19:15.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\UNI\\OPP\\3\\otthon_program\\MAP\\MAP\\Program.cs",
+              "RelativeDocumentMoniker": "MAP\\Program.cs",
+              "ToolTip": "C:\\UNI\\OPP\\3\\otthon_program\\MAP\\MAP\\Program.cs",
+              "RelativeToolTip": "MAP\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T15:11:58.234Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

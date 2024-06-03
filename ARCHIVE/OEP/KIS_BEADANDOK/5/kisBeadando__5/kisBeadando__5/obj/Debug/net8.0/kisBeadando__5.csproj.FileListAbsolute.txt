@@ -1,0 +1,14 @@
+C:\UNI\OEP\KIS_BEADANDOK\5\kisBeadando__5\kisBeadando__5\bin\Debug\net8.0\kisBeadando__5.exe
+C:\UNI\OEP\KIS_BEADANDOK\5\kisBeadando__5\kisBeadando__5\bin\Debug\net8.0\kisBeadando__5.deps.json
+C:\UNI\OEP\KIS_BEADANDOK\5\kisBeadando__5\kisBeadando__5\bin\Debug\net8.0\kisBeadando__5.runtimeconfig.json
+C:\UNI\OEP\KIS_BEADANDOK\5\kisBeadando__5\kisBeadando__5\bin\Debug\net8.0\kisBeadando__5.dll
+C:\UNI\OEP\KIS_BEADANDOK\5\kisBeadando__5\kisBeadando__5\bin\Debug\net8.0\kisBeadando__5.pdb
+C:\UNI\OEP\KIS_BEADANDOK\5\kisBeadando__5\kisBeadando__5\obj\Debug\net8.0\kisBeadando__5.GeneratedMSBuildEditorConfig.editorconfig
+C:\UNI\OEP\KIS_BEADANDOK\5\kisBeadando__5\kisBeadando__5\obj\Debug\net8.0\kisBeadando__5.AssemblyInfoInputs.cache
+C:\UNI\OEP\KIS_BEADANDOK\5\kisBeadando__5\kisBeadando__5\obj\Debug\net8.0\kisBeadando__5.AssemblyInfo.cs
+C:\UNI\OEP\KIS_BEADANDOK\5\kisBeadando__5\kisBeadando__5\obj\Debug\net8.0\kisBeadando__5.csproj.CoreCompileInputs.cache
+C:\UNI\OEP\KIS_BEADANDOK\5\kisBeadando__5\kisBeadando__5\obj\Debug\net8.0\kisBeadando__5.dll
+C:\UNI\OEP\KIS_BEADANDOK\5\kisBeadando__5\kisBeadando__5\obj\Debug\net8.0\refint\kisBeadando__5.dll
+C:\UNI\OEP\KIS_BEADANDOK\5\kisBeadando__5\kisBeadando__5\obj\Debug\net8.0\kisBeadando__5.pdb
+C:\UNI\OEP\KIS_BEADANDOK\5\kisBeadando__5\kisBeadando__5\obj\Debug\net8.0\kisBeadando__5.genruntimeconfig.cache
+C:\UNI\OEP\KIS_BEADANDOK\5\kisBeadando__5\kisBeadando__5\obj\Debug\net8.0\ref\kisBeadando__5.dll

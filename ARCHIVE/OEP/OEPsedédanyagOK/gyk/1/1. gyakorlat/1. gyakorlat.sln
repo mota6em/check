@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1F_Adag", "1F_Adag\1F_Adag.csproj", "{60D5E832-A9D2-4E7F-8A08-9331E11B7DB6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2F_Sprial", "2F_Lab\2F_Sprial.csproj", "{F0913AC3-974E-47A0-872E-8E7884E4D77D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3F_Vektor", "3F_Vektor\3F_Vektor.csproj", "{88C75335-59DD-4F48-B5F3-DE7CF1599F47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60D5E832-A9D2-4E7F-8A08-9331E11B7DB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60D5E832-A9D2-4E7F-8A08-9331E11B7DB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60D5E832-A9D2-4E7F-8A08-9331E11B7DB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60D5E832-A9D2-4E7F-8A08-9331E11B7DB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0913AC3-974E-47A0-872E-8E7884E4D77D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0913AC3-974E-47A0-872E-8E7884E4D77D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0913AC3-974E-47A0-872E-8E7884E4D77D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0913AC3-974E-47A0-872E-8E7884E4D77D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88C75335-59DD-4F48-B5F3-DE7CF1599F47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88C75335-59DD-4F48-B5F3-DE7CF1599F47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88C75335-59DD-4F48-B5F3-DE7CF1599F47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88C75335-59DD-4F48-B5F3-DE7CF1599F47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0B16906-206C-4B33-A94A-C85519B265EC}
+	EndGlobalSection
+EndGlobal

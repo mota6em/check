@@ -1,0 +1,16 @@
+1: 
+8.5 8.5 17.2
+2:  
+	(hasznos nt. fk)
+		5,5 4,5 3,5
+	(Ementes gka)
+		2,1 2,1 2
+ 	(Chomsky) 
+		av.: 6
+3:
+8.15 12.15(CYK)
+3.6 (pumpalo lemma)
+
+4:
+4.5 4 
+(dont forget the kuroda normálforma)

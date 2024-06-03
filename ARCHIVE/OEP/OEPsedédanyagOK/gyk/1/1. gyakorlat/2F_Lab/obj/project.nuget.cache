@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Beh3a0+dAsxTTmk9TNEuuxc773ZD7ICQvYFGkthvGq4gik+zo5Othxefp9M3hDbvEW3OejG9jWmjrJ08AeUFDA==",
+  "success": true,
+  "projectFilePath": "C:\\UNI\\OPP\\1\\1. gyakorlat\\2F_Lab\\2F_Sprial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sa7ar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Sa7ar\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Sa7ar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Sa7ar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

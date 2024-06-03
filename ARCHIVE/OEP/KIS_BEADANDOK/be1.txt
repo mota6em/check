@@ -1,0 +1,65 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Net.Security;
+using System.Runtime.Serialization;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace HF1
+{
+
+    public class Labyrinth
+    {
+        public enum Content
+        {
+            EMPTY,
+            WALL,
+            TREASURE,
+            GHOST
+        }
+        private int n;
+        private int m;
+        private Content[,] map;
+            
+        public Labyrinth(int r, int c)
+        {
+            n = r;
+            m = c;
+            map = new Content[n,m];
+        }
+        public struct Direction
+        {
+            public int X;
+            public int Y;
+
+            public Direction(int x, int y)
+            {
+                X = x;
+                Y = y;
+            }
+        }
+        public Content WhatIsThere(int x, int y, Direction ir)
+        {
+            if (!((x + ir.X < 1 || y + ir.Y < 1) && (ir.X == 0 || ir.Y == 0)))
+            {
+                // Handle error here
+                // This block executes when the condition is not met
+                // You can throw an exception or handle the error in any other way
+                throw new ArgumentException("Invalid direction or out of bounds");
+            }
+
+            // Assuming map is a multidimensional array or some other appropriate data structure
+            // Return map value at position (x + ir.X, y + ir.Y)
+            return map[x + ir.X, y + ir.Y];
+        }
+        public void Collect(int x, int y)
+        {
+            if (map[x,y] != Content.TREASURE)
+            {
+                throw new ArgumentException("ERORR");
+            }
+            map[x,y] = Content.EMPTY;
+        }
+    }
+}

@@ -1,0 +1,14 @@
+C:\UNI\OPP\3\otthon_program\Cactus\Cactus\bin\Debug\net8.0\Cactus.exe
+C:\UNI\OPP\3\otthon_program\Cactus\Cactus\bin\Debug\net8.0\Cactus.deps.json
+C:\UNI\OPP\3\otthon_program\Cactus\Cactus\bin\Debug\net8.0\Cactus.runtimeconfig.json
+C:\UNI\OPP\3\otthon_program\Cactus\Cactus\bin\Debug\net8.0\Cactus.dll
+C:\UNI\OPP\3\otthon_program\Cactus\Cactus\bin\Debug\net8.0\Cactus.pdb
+C:\UNI\OPP\3\otthon_program\Cactus\Cactus\obj\Debug\net8.0\Cactus.GeneratedMSBuildEditorConfig.editorconfig
+C:\UNI\OPP\3\otthon_program\Cactus\Cactus\obj\Debug\net8.0\Cactus.AssemblyInfoInputs.cache
+C:\UNI\OPP\3\otthon_program\Cactus\Cactus\obj\Debug\net8.0\Cactus.AssemblyInfo.cs
+C:\UNI\OPP\3\otthon_program\Cactus\Cactus\obj\Debug\net8.0\Cactus.csproj.CoreCompileInputs.cache
+C:\UNI\OPP\3\otthon_program\Cactus\Cactus\obj\Debug\net8.0\Cactus.dll
+C:\UNI\OPP\3\otthon_program\Cactus\Cactus\obj\Debug\net8.0\refint\Cactus.dll
+C:\UNI\OPP\3\otthon_program\Cactus\Cactus\obj\Debug\net8.0\Cactus.pdb
+C:\UNI\OPP\3\otthon_program\Cactus\Cactus\obj\Debug\net8.0\Cactus.genruntimeconfig.cache
+C:\UNI\OPP\3\otthon_program\Cactus\Cactus\obj\Debug\net8.0\ref\Cactus.dll

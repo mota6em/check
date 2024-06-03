@@ -1,0 +1,14 @@
+C:\UNI\OEP\DG\fisrtPrg\fisrtPrg\bin\Debug\net8.0\fisrtPrg.exe
+C:\UNI\OEP\DG\fisrtPrg\fisrtPrg\bin\Debug\net8.0\fisrtPrg.deps.json
+C:\UNI\OEP\DG\fisrtPrg\fisrtPrg\bin\Debug\net8.0\fisrtPrg.runtimeconfig.json
+C:\UNI\OEP\DG\fisrtPrg\fisrtPrg\bin\Debug\net8.0\fisrtPrg.dll
+C:\UNI\OEP\DG\fisrtPrg\fisrtPrg\bin\Debug\net8.0\fisrtPrg.pdb
+C:\UNI\OEP\DG\fisrtPrg\fisrtPrg\obj\Debug\net8.0\fisrtPrg.GeneratedMSBuildEditorConfig.editorconfig
+C:\UNI\OEP\DG\fisrtPrg\fisrtPrg\obj\Debug\net8.0\fisrtPrg.AssemblyInfoInputs.cache
+C:\UNI\OEP\DG\fisrtPrg\fisrtPrg\obj\Debug\net8.0\fisrtPrg.AssemblyInfo.cs
+C:\UNI\OEP\DG\fisrtPrg\fisrtPrg\obj\Debug\net8.0\fisrtPrg.csproj.CoreCompileInputs.cache
+C:\UNI\OEP\DG\fisrtPrg\fisrtPrg\obj\Debug\net8.0\fisrtPrg.dll
+C:\UNI\OEP\DG\fisrtPrg\fisrtPrg\obj\Debug\net8.0\refint\fisrtPrg.dll
+C:\UNI\OEP\DG\fisrtPrg\fisrtPrg\obj\Debug\net8.0\fisrtPrg.pdb
+C:\UNI\OEP\DG\fisrtPrg\fisrtPrg\obj\Debug\net8.0\fisrtPrg.genruntimeconfig.cache
+C:\UNI\OEP\DG\fisrtPrg\fisrtPrg\obj\Debug\net8.0\ref\fisrtPrg.dll
